@@ -1,4 +1,4 @@
-# Detector-de-capacetes-de-seguranca-em-trabalhadores
+# Detector de capacetes de seguranca em trabalhadores
 Sistema de visão computacional para detecção de capacete de segurança em trabalhadores em canteiros de obras.
 
 Implementação de uma solução de visão computacional que utiliza uma câmera embutida a um notebook e um modelo de IA pré-treinado 
